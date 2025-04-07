@@ -1,6 +1,6 @@
 {
   "name": "next-starter",
-  "version": "0.1.1f",
+  "version": "0.1.12",
   "private": true,
   "scripts": {
     "dev": "next dev",
